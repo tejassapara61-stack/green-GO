@@ -410,7 +410,7 @@ in the Software without restriction...
 
 - 💼 GitHub: [@tejassapara61-stack](https://github.com/tejassapara61-stack)
 - 📧 Email: [your.email@example.com](mailto:tejassapara61@gmail.com)
-- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tejass-shapra-48507b23a)
+- 🔗 LinkedIn: [Tejas sapara](https://www.linkedin.com/in/tejass-shapra-48507b23a)
 
 ### Project Links
 - 🌐 **Repository**: [https://github.com/tejassapara61-stack/green-GO](https://github.com/tejassapara61-stack/green-GO)
@@ -458,5 +458,6 @@ Special thanks to:
 [Back to Top ⬆️](#-greengo---crop-helper-platform)
 
 </div>
+# green-GO
 # green-GO
 # green-GO
