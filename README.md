@@ -409,8 +409,8 @@ in the Software without restriction...
 **Tejas Sapara**
 
 - 💼 GitHub: [@tejassapara61-stack](https://github.com/tejassapara61-stack)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 Email: [your.email@example.com](mailto:tejassapara61@gmail.com)
+- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tejass-shapra-48507b23a)
 
 ### Project Links
 - 🌐 **Repository**: [https://github.com/tejassapara61-stack/green-GO](https://github.com/tejassapara61-stack/green-GO)
@@ -435,9 +435,7 @@ Special thanks to:
 
 ---
 
-## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tejassapara61-stack/green-GO&type=Date)](https://star-history.com/#tejassapara61-stack/green-GO&Date)
 
 ---
 
